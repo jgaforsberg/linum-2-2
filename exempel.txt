@@ -1,0 +1,3 @@
+tjena mors det här är en exempelfil
+som används vid test av pythonskriptet read2lines.py
+och ingenting annat
