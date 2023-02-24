@@ -4,7 +4,7 @@
 ###	enkelt pythonskript för att iterera genom filer	###
 ###	i en angiven sökväg samt skriva ut delar av dess###
 ###	innehåll till stdout				###
-###	för LinUM2 5EL274 Umeå Universitet HT22		###
+###							###
 ###	author: jgaforsberg gufo0047 gusfor-1 gufr22	###
 ###							###
 
